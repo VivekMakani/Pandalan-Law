@@ -39,12 +39,12 @@ cd pandalan-law
 
 
 ## 📜 Features
-✅ Interactive Learning – A variety of legal subjects to study with ease.
-✅ Real-time Updates – Keep up with the latest legislation.
-✅ Group Study – Study with peers using the group chat feature.
-✅ Peer Networking – Connect with legal professionals.
-✅ Exam Preparation – Quizzes and practice tests for exam readiness.
-✅ Progress Tracker – Keep track of your study progress and performance.
+- ✅ Interactive Learning – A variety of legal subjects to study with ease.
+- ✅ Real-time Updates – Keep up with the latest legislation.
+- ✅ Group Study – Study with peers using the group chat feature.
+- ✅ Peer Networking – Connect with legal professionals.
+- ✅ Exam Preparation – Quizzes and practice tests for exam readiness.
+- ✅ Progress Tracker – Keep track of your study progress and performance.
 
 
 ---
