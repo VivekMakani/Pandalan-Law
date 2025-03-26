@@ -6,19 +6,20 @@ Pandalan Law, developed by **Benzatine Infotech**, is a **Flutter-based mobile a
 Pandalan Law offers a **comprehensive learning platform** with features like real-time chat with legal professionals, study group functionalities, and a repository of current legislation. The app helps students across various law disciplines, offering a **tailored learning experience** to boost exam preparation.
 
 
-## 📦 Utilized Packages
-State Management: provider 🏗️
-Networking: dio 🌐
-Real-Time Messaging: socket_io_client 💬
-Local Database: sqflite 📂
-In-App Purchases: in_app_purchase 💳
-Firebase: firebase_core, firebase_auth, firebase_messaging 🔥
+# 🏗️ Technologies Utilized
 
-## 🏗️ Technologies Utilized
-- **Flutter** for cross-platform development.
-- **Socket.io** for real-time messaging and chat functionality.
-- **In-App Purchase** for offering premium features.
-- **Provider** for state management.
+- (📦) **Flutter** for cross-platform development.
+- (🌐) **Dio** for networking and API requests.
+- (💬) **Socket.io** for real-time messaging and chat functionality.
+- (📂) **Sqflite** for local database management.
+- (💳) **In-App Purchase** for offering premium features.
+- (🔥) **Firebase** (firebase_core, firebase_auth, firebase_messaging) for backend services and real-time notifications.
+- (🗃️) **Provider** for state management.
+- (🌐) **Networking**: dio
+- (💬) **Real-Time Messaging**: socket_io_client
+- (📂) **Local Database**: sqflite
+- (💳) **In-App Purchases**: in_app_purchase
+- (🔥) **Firebase**: firebase_core, firebase_auth, firebase_messaging
 
 
 ## 🚀 How to Run the App Locally
