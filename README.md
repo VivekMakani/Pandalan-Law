@@ -9,6 +9,48 @@ Pandalan Law offers a **comprehensive learning platform** with features like rea
 
 ---
 
+## 📦 Utilized Packages
+State Management: provider 🏗️
+Networking: dio 🌐
+Real-Time Messaging: socket_io_client 💬
+Local Database: sqflite 📂
+In-App Purchases: in_app_purchase 💳
+Firebase: firebase_core, firebase_auth, firebase_messaging 🔥
+
+## 🏗️ Technologies Utilized
+- **Flutter** for cross-platform development.
+- **Socket.io** for real-time messaging and chat functionality.
+- **In-App Purchase** for offering premium features.
+- **Provider** for state management.
+
+
+## 🚀 How to Run the App Locally
+Follow these steps to set up and run the **Pandalan Law** app on your local machine:
+
+### 📋 Prerequisites
+- Install **Flutter SDK** ([Download Flutter](https://flutter.dev/docs/get-started/install)).
+- Install **Android Studio** or **VS Code** with Flutter & Dart plugins.
+- Set up an **Android or iOS emulator** OR connect a **physical device**.
+
+### 🛠 Installation Steps
+1️⃣ **Clone the Repository**
+```sh
+git clone https://github.com/yourusername/pandalan-law.git
+cd pandalan-law
+```
+
+
+## 📜 Features
+✅ Interactive Learning – A variety of legal subjects to study with ease.
+✅ Real-time Updates – Keep up with the latest legislation.
+✅ Group Study – Study with peers using the group chat feature.
+✅ Peer Networking – Connect with legal professionals.
+✅ Exam Preparation – Quizzes and practice tests for exam readiness.
+✅ Progress Tracker – Keep track of your study progress and performance.
+
+
+---
+
 ## 🎯 Business Needs
 - **Interactive learning environment** for law students.
 - **Real-time updates** with current legal information.
@@ -26,6 +68,8 @@ Pandalan Law offers a **comprehensive learning platform** with features like rea
 - **User engagement** through collaborative features.
 - **Ensuring accessibility** for law students at all levels.
 
+---
+
 ### 💡 Solutions
 - **Real-time legislation updates** to keep content current.
 - **Interactive features** like group study and peer chats to foster engagement.
@@ -34,42 +78,6 @@ Pandalan Law offers a **comprehensive learning platform** with features like rea
 
 ---
 
-## 🏗️ Technologies Utilized
-- **Flutter** for cross-platform development.
-- **Firebase** for cloud storage and authentication.
-- **Socket.io** for real-time messaging and chat functionality.
-- **Dio** for handling API requests.
-- **Sqflite** for local data storage.
-- **In-App Purchase** for offering premium features.
-- **Provider** for state management.
-
----
-
-## 🚀 How to Run the App Locally
-Follow these steps to set up and run the **Pandalan Law** app on your local machine:
-
-### 📋 Prerequisites
-- Install **Flutter SDK** ([Download Flutter](https://flutter.dev/docs/get-started/install)).
-- Install **Android Studio** or **VS Code** with Flutter & Dart plugins.
-- Set up an **Android or iOS emulator** OR connect a **physical device**.
-
-### 🛠 Installation Steps
-1️⃣ **Clone the Repository**
-```sh
-git clone https://github.com/yourusername/pandalan-law.git
-cd pandalan-law
-
-
-
-## 📜 Features
-✅ Interactive Learning – A variety of legal subjects to study with ease.
-✅ Real-time Updates – Keep up with the latest legislation.
-✅ Group Study – Study with peers using the group chat feature.
-✅ Peer Networking – Connect with legal professionals.
-✅ Exam Preparation – Quizzes and practice tests for exam readiness.
-✅ Progress Tracker – Keep track of your study progress and performance.
-
-
 ## 🏆 Goals Attained
 Increased engagement through real-time chat and group study.
 Better preparation for law exams through interactive tools.
@@ -77,13 +85,6 @@ User satisfaction with intuitive features and legal content.
 Networking opportunities for law students nationwide.
 High retention rates due to effective learning tools.
 
-## 📦 Utilized Packages
-State Management: provider 🏗️
-Networking: dio 🌐
-Real-Time Messaging: socket_io_client 💬
-Local Database: sqflite 📂
-In-App Purchases: in_app_purchase 💳
-Firebase: firebase_core, firebase_auth, firebase_messaging 🔥
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to fork the repository, open issues, or submit PRs to enhance the app. 🙌
