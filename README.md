@@ -2,12 +2,9 @@
 
 Pandalan Law, developed by **Benzatine Infotech**, is a **Flutter-based mobile application** designed to help law students and professionals enhance their study experience. It provides **interactive learning**, **real-time updates**, **group study features**, and **peer-to-peer networking**, aimed at making law education more accessible and engaging.
 
----
-
 ## 📌 Overview
 Pandalan Law offers a **comprehensive learning platform** with features like real-time chat with legal professionals, study group functionalities, and a repository of current legislation. The app helps students across various law disciplines, offering a **tailored learning experience** to boost exam preparation.
 
----
 
 ## 📦 Utilized Packages
 State Management: provider 🏗️
